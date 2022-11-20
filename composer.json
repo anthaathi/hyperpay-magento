@@ -1,5 +1,5 @@
 {
-  "name": "hyperpay/extension",
+  "name": "anthaathi/extension",
   "description": "Hyperpay: A Magento 2 payment extension",
   "type": "magento2-module",
   "version": "2.0.0",
